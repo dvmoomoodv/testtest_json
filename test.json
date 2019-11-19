@@ -1,7 +1,8 @@
 [
-    "20191111":{type:0, title:"", year:""},
-    "20191112":{type:0, title:"", year:""},
-    "20191113":{type:0, title:"", year:""},
-    "20191114":{type:0, title:"", year:""},
-    "20191115":{type:0, title:"", year:""}
+    {type:0, date:"20191111"},
+    {type:0, date:"20191112"},
+    {type:0, date:"20191113"},
+    {type:0, date:"20191114"},
+    {type:0, date:"20191115"},
+    {type:0, date:"20191116"},
 ];
